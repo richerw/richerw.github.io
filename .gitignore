@@ -1,0 +1,13 @@
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
+.rvm
+.bash_sessions/
+.gem/
+.Trash/
+.vscode/
+.history/
