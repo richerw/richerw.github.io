@@ -1,2 +1,3 @@
-# richerw.github.io
-github website
+# outmanzzq
+
+我的个人博客：<http://richerw.github.io>
